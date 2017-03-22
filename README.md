@@ -5,7 +5,7 @@
 
 使用方法：
 
-<img src="占位图" lazyload='图片路径' />
+'<img src="占位图" lazyload="图片路径" />'
 
 <script type="text/javascript">
 	$(fucntion(){
